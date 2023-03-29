@@ -1,0 +1,127 @@
+/* Background */
+body, html {
+    height: 100%;
+    background-image: url('Images/back3.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+}
+
+/* Nav Bar */
+nav {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.navbar {
+    background-color: #636363;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+/* Basic Info */
+.name {
+    font-size: 100px;
+    color: white;
+    padding-top: 12%;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.backtext {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 55px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.backtext2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* About Me */
+#AboutMe{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 350px;
+    padding-bottom: 75px;
+    margin-bottom: 10vh;
+    text-align: center;
+}
+
+.box{
+    background: #ababab;
+    padding: 20px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: left;
+    max-width: 800px;
+}
+
+.small-box{
+    background: #ababab;
+    padding: 20px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+#AboutMe p{
+    margin-bottom: 0;
+    color: white;
+}
+
+#HeadShot{
+    width: 75%;
+    border-radius: 15%;
+}
+
+.skill-icon{
+    width: 40px;
+}
+
+.skill-p{
+    color: white;
+}
+
+.subtitle{
+    font-weight: bold;
+    color: white;
+}
+
+/* Contact Me */
+footer{
+    background-color: #636363;
+    color:white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.social a{
+    font-size: 40px;
+    padding: 18px;
+}
+
+.fa {
+    color: #ffffff;
+  }
+
+.fa:hover{
+    color: #c9c9c9;
+}
